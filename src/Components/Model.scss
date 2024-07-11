@@ -1,0 +1,46 @@
+
+@import '../asset/icons/styles/variables.scss';
+.model{
+    max-width: 50rem;
+    background: #a7a6be7e;
+     border-radius: 1rem;
+     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+     backdrop-filter: blur(5px);
+     -webkit-backdrop-filter: blur(5px);
+     border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 4rem 3rem;
+    position: relative;
+   border-radius: 1rem;
+   color: rgb(247, 244, 244);
+    // top: 50%;
+    margin: 0 auto;
+    transform: translateY(50%);
+//    margin-left: 3rem;
+   @media screen and (max-width:$bp-small){
+   left: 0;
+margin: 3rem;
+ }
+
+}
+
+.upload{
+
+    margin-top: 2rem;
+    font-size: 2rem;
+    background-color: rgba(120, 237, 120, 0.724);
+    text-align: center;
+color: white;
+}
+
+.choosefile{
+    margin-top: 1.5rem;
+}
+.upload{
+    margin-top: 2rem;
+    width: 100%;
+    padding: 1rem 1rem;
+    border-style: none;
+    
+}
+
+

@@ -13,12 +13,12 @@
 
 ⭐ Star us on GitHub — it motivates us a lot!
 
-[![Share](https://img.shields.io/badge/share-000000?logo=x&logoColor=white)](https://x.com/intent/tweet?text=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/Abblix/Oidc.Server%20%23OpenIDConnect%20%23Security%20%23Authentication)
+
 [![Share](https://img.shields.io/badge/share-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/QaziSafiya/Uploaddocs-app)
 [![Share](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/QaziSafiya/Uploaddocs-app)
 
 
-# Upload Docs App
+# 🚀 About Upload Docs App
 
 This project is a Upload Docs App, developed to mimic the core functionalities of Google Drive, including file upload and delete . This project provides a robust and user-friendly interface for managing your files .
 
@@ -26,17 +26,17 @@ This project is a Upload Docs App, developed to mimic the core functionalities o
 
 ## Features
 
-User Authentication: Secure login and registration system using google Authentication.
+ - **User Authentication**: Secure login and registration system using google Authentication.
 
-Logout functionality :Logout
+- **Logout functionality** :Logout
 
-File Upload : Upload  files of various formats.
+- **File Upload** : Upload  files of various formats.
 
-File Delete : Delete files 
+- **File Delete** : Delete files 
 
-Responsive Design: Fully responsive design for optimal use on any device.
+- **Responsive Design**: Fully responsive design for optimal use on any device.
 
-Real-time Updates: Real-time updates to ensure changes are reflected immediately.
+- **Real-time Updates**: Real-time updates to ensure changes are reflected immediately.
 
 
 ## Technologies Used
@@ -61,9 +61,11 @@ Firebase
 
 
 
-## Installation and Setup
+## 📝 Installation and Setup
 
+To run the project, follow these steps:
 
+```shell
 Install npm
 Install Firebase
 
@@ -74,7 +76,7 @@ Steps to Run the Project
 
 ![Screenshot 2024-07-12 094753](https://github.com/user-attachments/assets/4129761c-80cb-4a6e-80aa-4b2ac8b2ebe1)
 
-
+```
 
 ## start app
 

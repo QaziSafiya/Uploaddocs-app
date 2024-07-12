@@ -31,7 +31,7 @@ import keeps from '../asset/icons/styles/keeps.png'
 import Model from './Model';
 import { db ,auth } from '../firebase';
 import Dropdown from './Dropdown';
-import { useNavigate } from 'react-router-dom';
+import { Link} from 'react-router-dom';
 
 
 const Home = ({photoURL}) => {
@@ -78,12 +78,12 @@ const Opendrive=()=>{
 setOpendrive(!opendrive)
 }
 
-const navigate = useNavigate();
+
 
 const handleDelete = (id) => {
   db.collection("my files").doc(id).delete().then(() => {
     console.log("Document successfully deleted!");
-    navigate('/App');
+    
   }).catch((error) => {
     console.error("Error removing document: ", error);
   });
@@ -112,8 +112,9 @@ const handleLogout = () => {
 
 <div className="header__logo">
 
+<h1 className='header__logo--heading'> UPLOAD DOCS</h1>
 
-<h1 className='header__logo--heading'>UPLOAD DOCS</h1>
+
 </div>
 
 {/*  header */}

@@ -99,20 +99,16 @@ npm start
 
 ![Screenshot 2024-07-11 180727](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8ba86f00-47ed-480d-a4c4-ccd32132e2fc)
 
-<img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fa299378-1551-4a2f-8c86-c827a84adcbb" alt="Aimeos logo" title="docs" align="left"  width="500" height="200" />
-
-
-<img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8e77f842-0634-45df-bf71-3edf26e394dc" alt="Aimeos logo" title="docs" align="left"  width="500" height="200" />
 
 
 
-<img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fe4fc926-9e4e-4eaa-8b23-3bf6dfb76e62" alt="Aimeos logo" title="docs" align="left"  width="500" height="200" />
+![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fa299378-1551-4a2f-8c86-c827a84adcbb)
+![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8e77f842-0634-45df-bf71-3edf26e394dc)
 
 
-<img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/f9f0e0c3-a4ef-4717-af3b-0f2ff2211e08" alt="Aimeos logo" title="docs" align="left"  width="500" height="200" />
+![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fe4fc926-9e4e-4eaa-8b23-3bf6dfb76e62)
 
-
-
+![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/f9f0e0c3-a4ef-4717-af3b-0f2ff2211e08)
 
 ![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/66763f08-ff7e-4dd6-973e-088a1340e6be)
 
@@ -123,7 +119,10 @@ npm start
 
 ## Mobile view 
 
-<img src="https://github.com/user-attachments/assets/71e523b0-a591-4749-a861-ac94a5d9fc3e" alt="Aimeos logo" title="docs" align="left"  width="500" height="200" />
+![Screenshot 2024-07-11 180919](https://github.com/user-attachments/assets/71e523b0-a591-4749-a861-ac94a5d9fc3e)
+
+
+
 
 
 

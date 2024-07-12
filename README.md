@@ -67,7 +67,7 @@ To run the project, follow these steps:
 
 ```shell
 npm install
-npm install firebase-firestore
+npm install firebase
 
 Steps to Run the Project
 
@@ -128,3 +128,12 @@ npm start
 - **Delete Files** : onClick the remove button we can delete the file .
 
 - **Grid Layout** : flexible to see the grid and simple layout on click the grid button
+
+- 
+
+
+## 🗨️ Contact me
+
+- **Email**: Send mail at [support@abblix.com](mailto:siddiquisafiya69@gmail.com).
+
+[Back to top](#top)

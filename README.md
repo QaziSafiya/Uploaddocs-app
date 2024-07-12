@@ -108,6 +108,7 @@ npm start
 
 <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fe4fc926-9e4e-4eaa-8b23-3bf6dfb76e62" alt="Aimeos logo" title="docs" align="left"  width="500" height="200" />
 
+
 <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/f9f0e0c3-a4ef-4717-af3b-0f2ff2211e08" alt="Aimeos logo" title="docs" align="left"  width="500" height="200" />
 
 
@@ -120,10 +121,10 @@ npm start
 
 ## Responsive 
 
+## Mobile view 
 
+<img src="https://github.com/user-attachments/assets/71e523b0-a591-4749-a861-ac94a5d9fc3e" alt="Aimeos logo" title="docs" align="left"  width="500" height="200" />
 
-
-![screencapture-localhost-3000-about-2024-07-12-09_49_30](https://github.com/user-attachments/assets/71e523b0-a591-4749-a861-ac94a5d9fc3e)
 
 
 

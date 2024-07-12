@@ -18,10 +18,12 @@ File Delete : Delete files
 Responsive Design: Fully responsive design for optimal use on any device.
 
 Real-time Updates: Real-time updates to ensure changes are reflected immediately.
+
+
 ## Technologies Used
 
 
-Frontend:
+# Frontend:
 
 HTML
 
@@ -34,7 +36,7 @@ React.js
 SCSS
 
 
-Backend:
+# Backend:
 
 Firebase
 
@@ -51,8 +53,13 @@ Steps to Run the Project
 1 Clone the repository:
 
 
+![Screenshot 2024-07-12 094753](https://github.com/user-attachments/assets/4129761c-80cb-4a6e-80aa-4b2ac8b2ebe1)
 
 
+
+## start app
+
+npm start
 
 
 ![screencapture-localhost-3000-login-2024-07-11-18_10_20](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/d02638e9-9f93-44ff-9ef0-11552c624b32)
@@ -78,6 +85,15 @@ Steps to Run the Project
 
 ![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/66763f08-ff7e-4dd6-973e-088a1340e6be)
 
+
+
+
+## Responsive 
+
+
+![screencapture-localhost-3000-2024-07-12-09_52_25](https://github.com/user-attachments/assets/32abbc73-ebda-4d97-be8b-190156339c0a)
+
+![screencapture-localhost-3000-about-2024-07-12-09_49_30](https://github.com/user-attachments/assets/71e523b0-a591-4749-a861-ac94a5d9fc3e)
 
 
 

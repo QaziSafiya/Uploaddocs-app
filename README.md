@@ -66,21 +66,21 @@ Firebase
 To run the project, follow these steps:
 
 ```shell
-Install npm
-Install Firebase
+npm install
+npm install firebase-firestore
 
 Steps to Run the Project
 
-1 Clone the repository:
+1- Clone the repository:
+
+git clone https://github.com/QaziSafiya/Uploaddocs-app.git
 
 
-![Screenshot 2024-07-12 094753](https://github.com/user-attachments/assets/4129761c-80cb-4a6e-80aa-4b2ac8b2ebe1)
-
-```
-
-## start app
+2- start app
 
 npm start
+
+```
 
 
 ![screencapture-localhost-3000-login-2024-07-11-18_10_20](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/d02638e9-9f93-44ff-9ef0-11552c624b32)
@@ -121,10 +121,10 @@ npm start
 
 ## Usage
 
-Sign Up/Login: Create an account or log in with your existing credentials.
+- **Sign Up/Login**: Create an account or log in with your existing credentials.
 
-Upload Files: Use the upload button to add files to your drive.
+- **Upload Files**: Use the upload button to add files to your drive.
 
-Delete Files : onClick the remove button we can delete the file .
+- **Delete Files** : onClick the remove button we can delete the file .
 
-Grid Layout : flexible to see the grid and simple layout on click the grid button
+- **Grid Layout** : flexible to see the grid and simple layout on click the grid button

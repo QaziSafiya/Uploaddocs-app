@@ -99,8 +99,8 @@ npm start
 
 ![Screenshot 2024-07-11 180727](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8ba86f00-47ed-480d-a4c4-ccd32132e2fc)
 
+<img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fa299378-1551-4a2f-8c86-c827a84adcbb" alt="Aimeos logo" title="docs" align="left"  width="500" height="200" />
 
-![Screenshot 2024-07-11 180800](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fa299378-1551-4a2f-8c86-c827a84adcbb)
 
 ![Screenshot 2024-07-11 180818](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8e77f842-0634-45df-bf71-3edf26e394dc)
 

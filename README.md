@@ -91,7 +91,7 @@ npm start
 ## Responsive 
 
 
-![screencapture-localhost-3000-2024-07-12-09_52_25](https://github.com/user-attachments/assets/32abbc73-ebda-4d97-be8b-190156339c0a)
+
 
 ![screencapture-localhost-3000-about-2024-07-12-09_49_30](https://github.com/user-attachments/assets/71e523b0-a591-4749-a861-ac94a5d9fc3e)
 

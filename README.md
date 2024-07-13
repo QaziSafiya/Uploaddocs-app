@@ -85,7 +85,11 @@ npm start
 
 ## Front view of the App
 
- <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/d02638e9-9f93-44ff-9ef0-11552c624b32" alt="Aimeos logo" title="docs" align="left"  width="200"  />
+
+<p align="center">
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/d02638e9-9f93-44ff-9ef0-11552c624b32" width="400" alt="logo"/>
+</p>
+
 
 
  ## Dashboard

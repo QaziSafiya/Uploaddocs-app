@@ -1,4 +1,5 @@
-## Upload Docs Project
+## 📁Upload Docs Project
+
 
 
 [![⚙️ Build Workflow](https://github.com/antoinezanardi/werewolves-assistant-api-next/actions/workflows/build.yml/badge.svg)](https://github.com/antoinezanardi/werewolves-assistant-api-next/actions/workflows/build.yml)
@@ -23,8 +24,19 @@
 This project is a Upload Docs App, developed to mimic the core functionalities of Google Drive, including file upload and delete . This project provides a robust and user-friendly interface for managing your files .
 
 
+## 📋 Table of Contents
+- **Features**:
+- **Technology used**:
+- **Installation**:
+- **Deploy**:
+ - **Usage**:
+- **Contact**:
+- **Contributing**:
+  
 
-## Features
+
+
+## 🚀Features
 
  - **User Authentication**: Secure login and registration system using google Authentication.
 
@@ -39,20 +51,20 @@ This project is a Upload Docs App, developed to mimic the core functionalities o
 - **Real-time Updates**: Real-time updates to ensure changes are reflected immediately.
 
 
-## Technologies Used
+## 🛠️Technologies Used
 
 
 # Frontend:
 
-HTML
+🖥️HTML
 
-CSS
+🎨CSS
 
-JavaScript
+⚛️JavaScript
 
-React.js
+⚛️React.js
 
-SCSS
+🌀SCSS
 
 
 # Backend:

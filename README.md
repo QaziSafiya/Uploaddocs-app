@@ -118,18 +118,26 @@ npm start
   <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8e77f842-0634-45df-bf71-3edf26e394dc" width="500" alt="logo"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fe4fc926-9e4e-4eaa-8b23-3bf6dfb76e62" width="500" alt="logo"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/f9f0e0c3-a4ef-4717-af3b-0f2ff2211e08" width="500" alt="logo"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/66763f08-ff7e-4dd6-973e-088a1340e6be" width="500" alt="logo"/>
+</p>
 
 
 
 
-![Screenshot 2024-07-11 180919]()
 
 
-![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fe4fc926-9e4e-4eaa-8b23-3bf6dfb76e62)
 
-![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/f9f0e0c3-a4ef-4717-af3b-0f2ff2211e08)
 
-![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/66763f08-ff7e-4dd6-973e-088a1340e6be)
+
 
 
 

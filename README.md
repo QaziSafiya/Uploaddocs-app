@@ -93,8 +93,12 @@ npm start
 
 
  ## Dashboard
+
+<p align="center">
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/a314dd02-6141-4dea-a04e-292e255cd990" width="200" alt="logo"/>
+</p>
+
  
-<img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/a314dd02-6141-4dea-a04e-292e255cd990" alt="Aimeos logo" title="docs" align="left"  width="500" height="200" />
 
 
 

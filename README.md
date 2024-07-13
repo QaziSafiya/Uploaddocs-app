@@ -111,7 +111,7 @@ npm start
 </p>
 
 <p align="center">
-  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fa299378-1551-4a2f-8c86-c827a84adcbb" width="500" alt="logo"/>
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fa299378-1551-4a2f-8c86-c827a84adcbb" width="200" alt="logo"/>
 </p>
 
 

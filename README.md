@@ -149,4 +149,8 @@ npm start
 - **Email**: Send mail at [support@abblix.com](mailto:siddiquisafiya69@gmail.com).
 - 
 
+
+## ❤️ Contributions
+There is no contributer yet .Want to be the first ?
+If you want to contribute to this project, please read the [**contribution guide**](https://github.com/antoinezanardi/werewolves-assistant-api-next/blob/master/CONTRIBUTING.md).
 [Back to top](#top)

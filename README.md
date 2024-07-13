@@ -95,18 +95,19 @@ npm start
  ## Dashboard
 
 <p align="center">
-  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/a314dd02-6141-4dea-a04e-292e255cd990" width="200" alt="logo"/>
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/a314dd02-6141-4dea-a04e-292e255cd990" width="400" alt="logo"/>
 </p>
 
- 
+
+<p align="center">
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/c5799aa0-9723-42c2-a23a-2899fda427c5" width="400" alt="logo"/>
+</p>
 
 
 
-
-![Screenshot 2024-07-11 180710](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/c5799aa0-9723-42c2-a23a-2899fda427c5)
-
-
-![Screenshot 2024-07-11 180727](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8ba86f00-47ed-480d-a4c4-ccd32132e2fc)
+<p align="center">
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8ba86f00-47ed-480d-a4c4-ccd32132e2fc" width="400" alt="logo"/>
+</p>
 
 
 

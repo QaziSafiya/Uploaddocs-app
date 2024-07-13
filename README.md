@@ -100,19 +100,24 @@ npm start
 
 
 <p align="center">
-  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/c5799aa0-9723-42c2-a23a-2899fda427c5" width="400" alt="logo"/>
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/c5799aa0-9723-42c2-a23a-2899fda427c5" width="500" alt="logo"/>
 </p>
+
 
 
 
 <p align="center">
-  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8ba86f00-47ed-480d-a4c4-ccd32132e2fc" width="400" alt="logo"/>
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8ba86f00-47ed-480d-a4c4-ccd32132e2fc" width="500" alt="logo"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fa299378-1551-4a2f-8c86-c827a84adcbb" width="500" alt="logo"/>
 </p>
 
 
 
 
-![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fa299378-1551-4a2f-8c86-c827a84adcbb)
+
 ![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8e77f842-0634-45df-bf71-3edf26e394dc)
 
 

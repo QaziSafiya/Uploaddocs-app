@@ -137,16 +137,15 @@ npm start
 
 
 
-
-
-
-
-
 ## Responsive 
 
 ## Mobile view 
 
-![Screenshot 2024-07-11 180919](https://github.com/user-attachments/assets/71e523b0-a591-4749-a861-ac94a5d9fc3e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71e523b0-a591-4749-a861-ac94a5d9fc3e" width="500" alt="logo"/>
+</p>
+
+
 
 
 

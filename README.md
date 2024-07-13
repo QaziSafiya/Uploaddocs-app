@@ -111,14 +111,18 @@ npm start
 </p>
 
 <p align="center">
-  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fa299378-1551-4a2f-8c86-c827a84adcbb" width="200" alt="logo"/>
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fa299378-1551-4a2f-8c86-c827a84adcbb" width="500" alt="logo"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8e77f842-0634-45df-bf71-3edf26e394dc" width="500" alt="logo"/>
 </p>
 
 
 
 
 
-![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/8e77f842-0634-45df-bf71-3edf26e394dc)
+![Screenshot 2024-07-11 180919]()
 
 
 ![Screenshot 2024-07-11 180919](https://github.com/QaziSafiya/Uploaddocs-app/assets/143307549/fe4fc926-9e4e-4eaa-8b23-3bf6dfb76e62)
